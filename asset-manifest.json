@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.31b1f946.css",
-    "main.js": "/static/js/main.4506852d.js",
+    "main.js": "/static/js/main.b07a18dd.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.cbac9053.chunk.js": "/static/js/64.cbac9053.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -11,7 +11,7 @@
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/RBRLogo.png": "/static/media/RBRLogo.5aad10e1cd4eaa95f5ac.png",
     "static/media/uobLogo.png": "/static/media/uobLogo.b05325f683674517afac.png",
-    "static/media/CV-Daniel-Batchford.pdf": "/static/media/CV-Daniel-Batchford.33bceaeeda0b9fca47ff.pdf",
+    "static/media/CV-Daniel-Batchford.pdf": "/static/media/CV-Daniel-Batchford.55d04bdccef8dd1c2b7f.pdf",
     "static/media/kclmsLogo.png": "/static/media/kclmsLogo.cbad57989f6f4a2865de.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c1986a9155d85549.svg",
     "static/media/farringtonsLogo.png": "/static/media/farringtonsLogo.532f8f93bac8efb20830.png",
@@ -22,7 +22,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.b7e63729a2580bdd4b07.svg",
     "main.31b1f946.css.map": "/static/css/main.31b1f946.css.map",
-    "main.4506852d.js.map": "/static/js/main.4506852d.js.map",
+    "main.b07a18dd.js.map": "/static/js/main.b07a18dd.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.cbac9053.chunk.js.map": "/static/js/64.cbac9053.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.31b1f946.css",
-    "static/js/main.4506852d.js"
+    "static/js/main.b07a18dd.js"
   ]
 }
