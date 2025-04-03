@@ -175,7 +175,7 @@ const techStack = {
       progressPercentage: "50%"
     }
   ],
-  displayCodersrank: false,
+  displayCodersrank: false
 };
 
 // Work experience section
