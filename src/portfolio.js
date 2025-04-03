@@ -296,7 +296,7 @@ const resumeSection = {
 const contactInfo = {
   title: "Contact Information",
   subtitle: "I can be reached on GitHub, LinkedIn or via email.",
-  email_address: "danielbathford@gmail.com"
+  email_address: "danielbatchford@gmail.com"
 };
 
 // Twitter Section
