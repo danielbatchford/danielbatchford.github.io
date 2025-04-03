@@ -148,7 +148,7 @@ const educationInfo = {
 };
 
 const techStack = {
-  viewSkillBars: true,
+  viewSkillBars: false,
   experience: [
     {
       Stack: ".NET Core / Framework",
@@ -175,7 +175,7 @@ const techStack = {
       progressPercentage: "50%"
     }
   ],
-  displayCodersrank: false
+  displayCodersrank: false,
 };
 
 // Work experience section
