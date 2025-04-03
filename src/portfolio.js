@@ -138,7 +138,7 @@ const educationInfo = {
       subHeader: "Secondary School",
       duration: "September 2005 - July 2017",
       descBullets: [
-        "7A*'s & 4 A's",
+        "GCSEs: 7A*'s & 4 A's",
         "A* in Mathematics & English Language",
         "Academic Scholarship - 2012 - 2017",
         "Mathematics Excellence Award x5"
