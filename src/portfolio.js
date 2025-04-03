@@ -126,10 +126,10 @@ const educationInfo = {
       subHeader: "Sixth Form",
       duration: "September 2017 - July 2019",
       descBullets: [
-        "A*: A Level Mathematics",
-        "A*: A Level Further Mathematics",
-        "A*: A Level Physics",
-        "A: AS Level Computer Science"
+        "A Level Mathematics - A*",
+        "A Level Further Mathematics - A*",
+        "A Level Physics - A*",
+        "AS Level Computer Science - A"
       ]
     },
     {
@@ -188,9 +188,9 @@ const workExperiences = {
       company: "Red Bull Racing",
       companylogo: require("./assets/images/RBRLogo.png"),
       date: "May 2023 – March 2025",
-      desc: "Software Engineer, providing internal tooling to aid car performance for the wider team.",
+      desc: "Developed software to aid car performance development in the wider team.",
       descBullets: [
-        "Developed internal ASP.Net Core API's for the vehicle performance group.",
+        "Developed internal ASP.Net Core APIs for the vehicle performance group.",
         "Created, maintained and deployed WPF applications used for internal tooling.",
         "Improved real-time software used by the race strategy group and external clients.",
         "Implemented client requests for a legacy .NET framework application.",
@@ -205,9 +205,9 @@ const workExperiences = {
       date: "July 2021 – July 2022",
       desc: "13 month industrial placement in the Aerodynamics Performance Group developing analysis software.",
       descBullets: [
-        "Developed a WPF desktop application which processed data from the track, wind tunnel and computational fluid dynamics in a real time context.",
+        "Developed a WPF desktop application which processed data from the track, wind tunnel and computational fluid dynamics in a real-time context.",
         "Created bespoke plotting tools for the aerodynamics performance group to visualise data from a number of sources.",
-        "Integrated and transformed large datasets from internal API's into a visual format used in the wider performance group.",
+        "Integrated and transformed large datasets from internal APIs into a visual format used in the wider performance group.",
         "Managed the software life-cycle of applications, from the initial planning phase to deployment.",
         "Created CI/CD pipelines to automate software deployment."
       ]
