@@ -122,7 +122,7 @@ const educationInfo = {
     },
     {
       schoolName: "Kings College London Mathematics School",
-      logo: require("./assets/images/kclmsLogo.jpg"),
+      logo: require("./assets/images/kclmsLogo.png"),
       subHeader: "Sixth Form",
       duration: "September 2017 - July 2019",
       descBullets: [
@@ -134,7 +134,7 @@ const educationInfo = {
     },
     {
       schoolName: "Farringtons School",
-      logo: require("./assets/images/farringtonsLogo.jpg"),
+      logo: require("./assets/images/farringtonsLogo.png"),
       subHeader: "Secondary School",
       duration: "September 2005 - July 2017",
       descBullets: [
